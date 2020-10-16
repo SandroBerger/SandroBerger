@@ -1,8 +1,29 @@
 ## Hi there, I'm [Sandro][website] 👋
 
-## Connect:
+## About me
 
-[<img align="left" alt="berger-sandro.eu" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/de) as a Backend Java Developer. Besides that I'm working on my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/de/studium/bachelor/digital-business-software-engineering).
+
+### I'm Currently learning
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Reactive RESTFUL APIs with Spring Boot/Webflux](https://www.udemy.com/course/build-reactive-restful-apis-using-spring-boot-webflux/)
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Kotlin for Java Developers](https://www.udemy.com/share/101ZcaAEESeFZQTH0F/)
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
+
+### I'm Currently working with
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> Java
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Boot
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Security
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Sprint Data JPA
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"/> Kubernetes
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg"/> Elastic Search
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg"/>Kibana 
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg"/> Jenkins
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg"/> GitHub Actions 
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/> IntelliJ Ultimate
+
+### Connect:
+
+[<img align="left" alt="Sandro Berger | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Sandro Berger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sandro Berger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Berger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,15 +41,3 @@
 
 <!--
 **SandroBerger/SandroBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
