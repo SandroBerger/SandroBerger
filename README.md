@@ -2,7 +2,7 @@
 
 ## About me
 
-I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/de) as a Backend Java Developer. Besides that I'm working on my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/de/studium/bachelor/digital-business-software-engineering).
+I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en) as a Backend Java Developer. Besides that I'm working on my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/en/studium/bachelor/digital-business-software-engineering).
 
 ### I'm Currently learning
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Reactive RESTFUL APIs with Spring Boot/Webflux](https://www.udemy.com/course/build-reactive-restful-apis-using-spring-boot-webflux/)
