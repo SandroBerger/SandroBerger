@@ -33,7 +33,7 @@ I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en
 
 ---
 
-<img align="left" alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandroBerger&show_icons=true&hide_border=true&count_private=true" />
+<img align="left" alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandroBerger&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 [website]: https://berger-sandro.eu
 [twitter]: https://twitter.com/BergerSandro94
