@@ -17,7 +17,7 @@ I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Sprint Data JPA
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"/> Kubernetes
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg"/> Elastic Search
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg"/>Kibana 
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg"/> Kibana 
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg"/> Jenkins
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg"/> GitHub Actions 
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/> IntelliJ Ultimate
