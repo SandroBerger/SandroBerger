@@ -8,7 +8,7 @@ I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Reactive RESTFUL APIs with Spring Boot/Webflux](https://www.udemy.com/course/build-reactive-restful-apis-using-spring-boot-webflux/)
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Kotlin for Java Developers](https://www.udemy.com/share/101ZcaAEESeFZQTH0F/)
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg"/> [Quarkus](https://quarkus.io/) / [GraalVM](https://www.graalvm.org/)
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg"/> [Quarkus](https://quarkus.io/) / [Micronaut](https://micronaut.io/) / [Spring Native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/) / [GraalVM](https://www.graalvm.org/)
 
 ### I'm Currently working with
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> Java
