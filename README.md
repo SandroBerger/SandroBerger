@@ -37,7 +37,7 @@ I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en
 
 [twitter]: https://twitter.com/BergerSandro94
 [instagram]: https://instagram.com/_sandro_berger_
-[linkedin]: https://linkedin.com/in/sandro-berger372061b3
+[linkedin]: https://www.linkedin.com/in/sandro-berger-372061b3/
 
 <!--
 **SandroBerger/SandroBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
