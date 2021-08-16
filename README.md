@@ -4,15 +4,14 @@
 
 I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en) as a Backend Java Developer. Besides that I'm working on my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/en/study/bachelor/digital-business-software-engineering).
 
-### I'm Currently learning
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Reactive RESTFUL APIs with Spring Boot/Webflux](https://www.udemy.com/course/build-reactive-restful-apis-using-spring-boot-webflux/)
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [Kotlin for Java Developers](https://www.udemy.com/share/101ZcaAEESeFZQTH0F/)
+### I'm currently learning
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/udemy.svg"/> [React Native - The Practical Guide](https://www.udemy.com/course/react-native-the-practical-guide/)
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/quarkus.svg"/> [Quarkus](https://quarkus.io/) / [Micronaut](https://micronaut.io/) / [Spring Native](https://docs.spring.io/spring-native/docs/current/reference/htmlsingle/) / [GraalVM](https://www.graalvm.org/)
 
-### I'm Currently working with
+### I'm currently working with
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> Java
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Boot
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/> Kotlin
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Boot/Webflux
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Security
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Sprint Data JPA
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"/> Kubernetes
