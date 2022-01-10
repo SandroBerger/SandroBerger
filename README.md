@@ -12,6 +12,7 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 ### I'm currently working with
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> Java
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg"/> Kotlin
+* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/go.svg"/> Go
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Boot/Webflux
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Spring Security
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spring.svg"/> Sprint Data JPA
