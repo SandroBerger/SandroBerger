@@ -28,6 +28,7 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 [<img align="left" alt="Sandro Berger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sandro Berger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Berger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Sandro Berger | Buy Me A Coffee" width="25px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" />][coffee]
 
 <br />
 
@@ -38,6 +39,7 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 [twitter]: https://twitter.com/BergerSandro94
 [instagram]: https://instagram.com/_sandro_berger_
 [linkedin]: https://www.linkedin.com/in/sandro-berger-372061b3/
+[coffee]: https://www.buymeacoffee.com/sandroberger
 
 <!--
 **SandroBerger/SandroBerger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
