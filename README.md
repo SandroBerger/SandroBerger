@@ -1,3 +1,5 @@
+![Profile View Counter](https://komarev.com/ghpvc/?username=SandroBerger) 
+
 ## Hi there, I'm [Sandro][linkedin] 👋
 
 ## About me
@@ -23,6 +25,9 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg"/> GitHub Actions 
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/> IntelliJ Ultimate
 
+
+## Random joke
+![Jokes Card](https://readme-jokes.vercel.app/api)
 ### Connect:
 
 [<img align="left" alt="Sandro Berger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -33,8 +38,6 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 <br />
 
 ---
-
-<img align="left" alt="Sandro's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SandroBerger&show_icons=true&hide_border=true&count_private=true&theme=dark" />
 
 [twitter]: https://twitter.com/BergerSandro94
 [instagram]: https://instagram.com/_sandro_berger_
