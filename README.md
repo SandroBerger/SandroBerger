@@ -41,7 +41,7 @@ I've finished my bachelor's degree in software engineering at the [Management Ce
 
 [twitter]: https://twitter.com/BergerSandro94
 [instagram]: https://instagram.com/_sandro_berger_
-[linkedin]: https://www.linkedin.com/in/sandro-berger-372061b3/
+[linkedin]: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sandro-berger
 [coffee]: https://www.buymeacoffee.com/sandroberger
 
 <!--
