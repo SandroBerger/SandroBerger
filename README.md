@@ -1,12 +1,12 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=SandroBerger) 
 
-## Hi there, I'm [Sandro][linkedin] 👋
+## Hi there, I'm [Sandro][homepage] 👋
 
 ## About me
 
-I'm currently working at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en) as a Backend Software Engineer. 
+I'm a Lead Software Engineer at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en). 
 I've finished my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/en/study/bachelor/digital-business-software-engineering).
-And I'm currently working on my master's degree at the [FH Kufstein](https://www.fh-kufstein.ac.at/studieren/master/web-engineering-it-solutions-bb). 
+Currently, I'm working on my master's degree at the [FH Kufstein](https://www.fh-kufstein.ac.at/studieren/master/web-engineering-it-solutions-bb). 
 
 ### I'm currently working with
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg"/> Java
@@ -18,13 +18,11 @@ And I'm currently working on my master's degree at the [FH Kufstein](https://www
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kubernetes.svg"/> Kubernetes
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/elasticsearch.svg"/> Elastic Search
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kibana.svg"/> Kibana 
-* <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jenkins.svg"/> Jenkins
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/githubactions.svg"/> GitHub Actions 
 * <img width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intellijidea.svg"/> IntelliJ Ultimate
 
 ## Links
 
-[<img align="left" alt="Sandro Berger | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Sandro Berger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Sandro Berger | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Sandro Berger | Buy Me A Coffee" width="25px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" />][coffee]
@@ -32,8 +30,7 @@ And I'm currently working on my master's degree at the [FH Kufstein](https://www
 <br />
 
 ---
-
-[twitter]: https://twitter.com/BergerSandro94
+[homepage]: https://berger-sandro.com
 [instagram]: https://instagram.com/_sandro_berger_
 [linkedin]: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sandro-berger
 [coffee]: https://www.buymeacoffee.com/sandroberger
