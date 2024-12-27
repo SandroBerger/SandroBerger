@@ -5,7 +5,7 @@ I'm currently a Lead Software Engineer at [INNIO Jenbacher GmbH & Co OG](https:/
 
 ### Studies
 I've finished my bachelor's degree in software engineering at the [Management Center Innsbruck](https://www.mci.edu/en/study/bachelor/digital-business-software-engineering) and 
-my masters degree at the [FH Kufstein](https://www.fh-kufstein.ac.at/studieren/master/web-engineering-it-solutions-bb). 
+my masters degree at the [FH Kufstein](https://www.fh-kufstein.ac.at/en/master/web-engineering-it-solutions-pt). 
 
 ### I'm currently currently working with
 | Category                        | Technology/Experience                          |
