@@ -1,5 +1,3 @@
-![Profile View Counter](https://komarev.com/ghpvc/?username=SandroBerger) 
-
 ## Hi there, I'm [Sandro][homepage] 👋
 I'm currently a Lead Software Engineer at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en).
 
