@@ -1,25 +1,43 @@
-## Hi there, I'm [Sandro][homepage] 👋
-I'm currently a Lead Software Engineer at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en).
+# Sandro Berger
 
-### Studies
-I completed my Bachelor's degree in Software Engineering at the [Management Center Innsbruck][mci] and my Master's degree at [FH Kufstein][fhkufstein].
+I design and drive the architecture of large-scale software systems, helping teams deliver reliable, scalable, and maintainable products.
 
-### I'm currently currently working with
-| Category                        | Technology/Experience                          |
-|---------------------------------|------------------------------------------------|
-| Programming Languages and Frameworks | Java(JavaEE, JavaFX), Kotlin, Spring, Quarkus (GraalVM), Micronaut (GraalVM), Golang, HTML, CSS, PHP, JavaScript (Next.js, React), Python, C/C++ (Basics) |
-| Database Technologies           | PostgreSQL, MySQL, MSSQL, Oracle 9i, ClickHouse, Cassandra Timeseries, Redis, DB2 zOS |
-| DevOps                          | AWS, Kubernetes, ArgoCD, Docker, GitHub Actions, Jenkins, Spring Cloud Dataflow |
-| Scrum                           | Scrum Master (PSM I) certified by Scrum.org    |
+My work spans backend engineering, cloud infrastructure, DevOps, and software architecture. I focus on turning complex business challenges into pragmatic technical solutions that create measurable value.
 
-## Links
-[<img align="left" alt="Sandro Berger | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="Sandro Berger | Buy Me A Coffee" width="25px" src="https://www.buymeacoffee.com/assets/img/guidelines/logo-mark-1.svg" />][coffee]-->
-<br>
+Currently, I work as a **Lead Software Engineer at [INNIO Jenbacher GmbH & Co OG](https://www.innio.com/en)**, where I help shape the architecture of industrial IoT platforms.
 
----
+## What I work on
+
+- Designing distributed systems and scalable backend services
+- Building cloud-native platforms and reliable delivery pipelines
+- Improving developer productivity and engineering practices
+- Mentoring engineers and supporting technical growth
+- Shaping technical strategy and conducting technical interviews
+- Turning ideas into products, from backend services to embedded systems
+
+## Technology
+
+| Area | Tools and experience |
+| --- | --- |
+| Backend | Java, JavaEE, Kotlin, Spring, Quarkus, Micronaut, Go, Python, PHP |
+| Web | JavaScript, TypeScript, Next.js, React, HTML, CSS |
+| Data | PostgreSQL, MySQL, MSSQL, Oracle, ClickHouse, Cassandra, Redis, DB2 z/OS |
+| Cloud & DevOps | AWS, Kubernetes, Argo CD, Docker, GitHub Actions, Jenkins, Spring Cloud Dataflow |
+| Other | C/C++ fundamentals, distributed systems, Scrum, system design |
+
+## Education
+
+- **MSc in Web Communication & Information Systems** · [FH Kufstein Tirol][fhkufstein]
+- **BSc in Digital Business & Software Engineering** · [MCI — Management Center Innsbruck][mci]
+
+## Connect
+
+I’m always interested in challenging engineering problems, ambitious products, and thoughtful conversations about technology and leadership.
+
+[Website][homepage] · [LinkedIn][linkedin] · [GitHub][github]
+
 [homepage]: https://berger-sandro.com
-[linkedin]: https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sandro-berger
+[linkedin]: https://www.linkedin.com/in/sandro-berger
+[github]: https://github.com/SandroBerger
 [mci]: https://www.mci.edu/en/study/bachelor/digital-business-software-engineering
 [fhkufstein]: https://www.fh-kufstein.ac.at/en/master/web-engineering-it-solutions-pt
-<!-- [coffee]: https://www.buymeacoffee.com/sandroberger-->
