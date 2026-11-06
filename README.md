@@ -8,7 +8,7 @@ My work spans backend engineering, cloud infrastructure, DevOps, and software ar
 
 I’m always interested in challenging engineering problems, ambitious products, and thoughtful conversations about technology and leadership.
 
-[Website][homepage] · [LinkedIn][linkedin] · [GitHub][github]
+[Website][homepage] · [LinkedIn][linkedin]
 
 [homepage]: https://berger-sandro.com
 [linkedin]: https://www.linkedin.com/in/sandro-berger
