@@ -6,8 +6,6 @@ My work spans backend engineering, cloud infrastructure, DevOps, and software ar
 
 ## Connect
 
-I’m always interested in challenging engineering problems, ambitious products, and thoughtful conversations about technology and leadership.
-
 [Website][homepage] · [LinkedIn][linkedin]
 
 [homepage]: https://berger-sandro.com
